@@ -2,7 +2,7 @@
 import sys
 
 # Padrão: 50 entrevistados. Para testes: python pesquisa_tudoweb.py 10
-TOTAL_ENTREVISTADOS = int(sys.argv[1]) if len(sys.argv) > 1 else 50
+TOTAL_ENTREVISTADOS = int(sys.argv[1]) if len(sys.argv) > 1 else 10
 
 excelente = 0
 bom = 0
